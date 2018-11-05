@@ -1,3 +1,5 @@
+# 这个项目是用 Torch 对 Leon A. Gatys, Alexander S. Ecker, 和 Matthias Bethge 等人的论文“A Neural Algorithm of Artistic Style”的一个实现。论文中提出一种算法，用卷积神经网络将一幅图像的内容与另一幅图像的风格进行组合。
+
 # neural-style
 
 This is a torch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
